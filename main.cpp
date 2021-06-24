@@ -97,8 +97,7 @@ int main() {
 
 
 
-// 2. Imprimir la tabla de multiplicar del numero 5
-//cout<<"El valor de la variable i"<<i;
+
 
 
 
